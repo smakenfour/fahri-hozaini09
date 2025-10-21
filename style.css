@@ -1,0 +1,17 @@
+body{
+      background-color:  #FFFFEO; /* warna kuning cerah 
+      font-family: Arial, sans-serif; /* jenis huruf yang bersih dan mudah di baca */
+      color: #191970; /* warna teks utama (Biru gelap) */
+}
+.kartu-profil{
+witdth: 300px;
+margin: 50px auto; /* 50px jarak atas/bawah, auto menggunakan kiri/kanan */
+padding: 20px;
+background-color:white;
+border-radius: 15px; /* membuat sudut menjadi melengkung */
+box-shodow: 0 4px 8px rgba(0,0,0.1); * Efek bayangan */
+tekt-align: center;
+}
+.kartu-profil img {
+  width: 150px
+  border-radius: 50%; /* trik untuk membuat persegi panjang menjadi lingkaran */
